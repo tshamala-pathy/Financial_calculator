@@ -52,7 +52,7 @@ This project was created by [Your Name]. Special thanks to [Contributor 1] and [
 Repository URL
 Visit the Financial Calculator repository on GitHub for the latest updates and contributions.
 
-repository URL. 
+repository URL. https://github.com/tshamala-pathy/Financial_calculator.git
 
 
 
